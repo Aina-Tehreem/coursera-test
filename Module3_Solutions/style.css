@@ -1,0 +1,23 @@
+
+
+h1
+	{
+	text-align: center;
+	font-family: arial;
+  	color: #003300;
+  }  
+
+
+.row-look
+{ 
+	outline:solid;
+	outline-width :12px;
+	Outline-color:white;
+	/*
+	border:white;
+    border-width:  1px;
+  	border-color: black;
+	*/
+	background-color: #cce6ff;
+  }
+
